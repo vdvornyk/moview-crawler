@@ -9,4 +9,5 @@ Technologies:
 - log4j
 - xlsx configuration
 - multithreaded
+- Swing GUI
 
