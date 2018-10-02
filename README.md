@@ -7,7 +7,10 @@ Technologies:
 - Maven
 - https://jsoup.org/
 - log4j
+- Google guice
+- Google guava
+- GSON
+- Lombok
 - xlsx configuration
 - multithreaded
 - Swing GUI
-
